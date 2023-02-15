@@ -3,7 +3,7 @@
 This is a small web application to add, update and delete contact information.  The webpage will display the contact information and allow editing.
 
 ## Web API
-The web API is .Net Core 7 and was written in C# using Visual Studio 2022.  The APi is described in the swagger page which will start when the application is run.  The ORM used is Entity Framework Core and the localdb provided with Visual Studio was used.  A DTO has been defined and is used in this project, however it isn't utilised in the front end as it's not compatiable.  I could have used it in a Blazor front end, for example, but chose Angular in the end.
+The web API is .Net Core 7 and was written in C# using Visual Studio 2022.  The APi is described in the swagger page which will start when the application is run.  The ORM used is Entity Framework Core and the localdb provided with Visual Studio was used.  A DTO has been defined and is used in this project, however it isn't utilised in the front end as it's not compatible.  I could have used it in a Blazor front end, for example, but chose Angular in the end.
 
 
 ## Front End UI
