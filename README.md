@@ -7,5 +7,5 @@ The web API is .Net Core 7 and was written in C# using Visual Studio 2022.  The 
 
 
 ## Front End UI
-The front end UI is an Angular application which at this stage it is very basic.  A third party grid would probably bee the first improvement if this application was to be taken forward.  This app is very much still work in progress, but does perform the required functionality.  It does currently has a limitation that it needs an existing contact in the database to enable addition of new contacts.  The initial contact required can be added using the Swagger page in the web API.  An alternative would be to seed some data in the WEB API but this has not yet been implemented.
+The front end UI is an Angular application which at this stage it is very basic.  VS Code was used to develop and run this front end.  A third party grid would probably bee the first improvement if this application was to be taken forward.  This app is very much still work in progress, but does perform the required functionality.  It does currently has a limitation that it needs an existing contact in the database to enable addition of new contacts.  The initial contact required can be added using the Swagger page in the web API.  An alternative would be to seed some data in the WEB API but this has not yet been implemented.
 
