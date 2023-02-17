@@ -1,2 +1,0 @@
-C:\Users\smawl\source\repos\angularproject1\angularproject1\obj\Debug\angularproject1.esproj.SuggestedBindingRedirects.cache
-C:\Users\smawl\source\repos\angularproject1\angularproject1\obj\Debug\angularproject1.esproj.CoreCompileInputs.cache
